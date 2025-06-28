@@ -1,4 +1,4 @@
-# @resurge/no-core
+# @reignite/no-core
 
 Core utility library for naming order functionality
 
