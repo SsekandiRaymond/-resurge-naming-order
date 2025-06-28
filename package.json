@@ -1,0 +1,32 @@
+{
+    "name": "@resurge/no-core",
+    "version": "0.0.1",
+    "description": "Core Utility library for country level right Naming Order",
+    "keywords": [
+        "names",
+        "right name order",
+        "core library"
+    ],
+    "homepage": "https://github.com/SsekandiRaymond/-resurge-naming-order#readme",
+    "bugs": {
+        "url": "https://github.com/SsekandiRaymond/-resurge-naming-order/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SsekandiRaymond/-resurge-naming-order.git"
+    },
+    "license": "MIT",
+    "author": "ssekandi <ssekandiraymond01@gmail.com>",
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "unpkg": "./dist/index.global.js",
+    "jsdelivr": "./dist/index.global.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsup"
+    },
+    "devDependencies": {
+        "tsup": "^8.5.0",
+        "typescript": "^5.8.3"
+    }
+}

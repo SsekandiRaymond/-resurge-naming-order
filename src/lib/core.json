@@ -1,0 +1,1515 @@
+[
+    {
+        "country": "Uganda",
+        "code": "UG",
+        "Naming Order": {
+            "English": "Surname + Given Name + Other Name(s)"
+        }
+    },
+    {
+        "country": "Afghanistan",
+        "code": "AF",
+        "Naming Order": {
+            "English": "First name + Second name",
+            "Pashto": "لومړی نوم + دویم نوم"
+        }
+    },
+    {
+        "country": "Albania",
+        "code": "AL",
+        "Naming Order": {
+            "English": "Given Name + Family Name",
+            "Albanian": "Emri i dhënë + Mbiemri"
+        }
+    },
+    {
+        "country": "Algeria",
+        "code": "DZ",
+        "Naming Order": {
+            "English": "Given name + Father’s given name + Family surname",
+            "Arabic": "الاسم الأول + اسم الأب + اسم العائلة"
+        }
+    },
+    {
+        "country": "Andorra",
+        "code": "AD",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Surname + Mother's Surname",
+            "Catalan": "Nom de pila(s) + cognom del pare + cognom de la mare"
+        }
+    },
+    {
+        "country": "Angola",
+        "code": "AO",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Surname + Mother's Surname",
+            "Portuguese": "Nome(s) próprio(s) + apelido do pai + apelido da mãe"
+        }
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "code": "AG",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Argentina",
+        "code": "AR",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Surname + Mother's Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Armenia",
+        "code": "AM",
+        "Naming Order": {
+            "English": "Given Name(s) + Patronymic + Surname",
+            "Armenian": "Անուն(ներ) + հայրանուն + ազգանուն"
+        }
+    },
+    {
+        "country": "Australia",
+        "code": "AU",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Austria",
+        "code": "AT",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "German": "Vorname(n) + Familienname"
+        }
+    },
+    {
+        "country": "Azerbaijan",
+        "code": "AZ",
+        "Naming Order": {
+            "English": "Given Name + Patronymic + Surname",
+            "Azerbaijani": "Ad + ata adı + soyad"
+        }
+    },
+    {
+        "country": "Bahamas",
+        "code": "BS",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Bahrain",
+        "code": "BH",
+        "Naming Order": {
+            "English": "Given Name + Middle Name + Last Name",
+            "Arabic": "الاسم الأول + الاسم الأوسط + اسم العائلة"
+        }
+    },
+    {
+        "country": "Bangladesh",
+        "code": "BD",
+        "Naming Order": {
+            "English": "Given Name(s) + Middle Name(optional) + Surname",
+            "Bengali": "প্রথম নাম + (মাঝের নাম) + খ姓"
+        }
+    },
+    {
+        "country": "Barbados",
+        "code": "BB",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Belarus",
+        "code": "BY",
+        "Naming Order": {
+            "English": "Given Name + Patronymic + Surname",
+            "Belarusian": "Імя + Айчынны + Прозвішча"
+        }
+    },
+    {
+        "country": "Belgium",
+        "code": "BE",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Dutch": "Achternaam + voornaam/voornamen"
+        }
+    },
+    {
+        "country": "Belize",
+        "code": "BZ",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Benin",
+        "code": "BJ",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Bhutan",
+        "code": "BT",
+        "Naming Order": {
+            "English": "First name + Second name",
+            "Dzongkha": "མིང་དྲག་ + གང་གི་མིང་"
+        }
+    },
+    {
+        "country": "Bolivia",
+        "code": "BO",
+        "Naming Order": {
+            "English": "First Surname + Second Surname + Given name(s)",
+            "Spanish": "Primer apellido + segundo apellido + nombre(s)"
+        }
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "code": "BA",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Bosnian": "Prezime + ime(na)"
+        }
+    },
+    {
+        "country": "Botswana",
+        "code": "BW",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Brazil",
+        "code": "BR",
+        "Naming Order": {
+            "English": "Given Name(s) + Maternal Surname + Paternal Surname",
+            "Portuguese": "Nome(s) + sobrenome materno + sobrenome paterno"
+        }
+    },
+    {
+        "country": "Brunei",
+        "code": "BN",
+        "Naming Order": {
+            "English": "Given Name(s) + bin[t] + Surname",
+            "Malay": "Nama + bin/binti + nama keluarga"
+        }
+    },
+    {
+        "country": "Bulgaria",
+        "code": "BG",
+        "Naming Order": {
+            "English": "Given Name(s) + Patronymic + Surname",
+            "Bulgarian": "Име + бащино име + фамилия"
+        }
+    },
+    {
+        "country": "Burkina Faso",
+        "code": "BF",
+        "Naming Order": {
+            "English": "Given Name(s) + Family Name",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Burundi",
+        "code": "BI",
+        "Naming Order": {
+            "English": "Given Name(s) + Family Name",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Cabo Verde",
+        "code": "CV",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Portuguese": "Sobrenome + nome(s)"
+        }
+    },
+    {
+        "country": "Cambodia",
+        "code": "KH",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Cambodian": "នាមគ rodzinny + ឈ្មោះ(noms)"
+        }
+    },
+    {
+        "country": "Cameroon",
+        "code": "CM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Canada",
+        "code": "CA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Central African Republic",
+        "code": "CF",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Chad",
+        "code": "TD",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Chile",
+        "code": "CL",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "China",
+        "code": "CN",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Chinese": "姓 + 名"
+        }
+    },
+    {
+        "country": "Colombia",
+        "code": "CO",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Comoros",
+        "code": "KM",
+        "Naming Order": {
+            "English": "Given Name(s) + Family Name",
+            "Arabic": "الاسم الأول + اسم العائلة"
+        }
+    },
+    {
+        "country": "Congo-Brazzaville",
+        "code": "CG",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "code": "CD",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Costa Rica",
+        "code": "CR",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Croatia",
+        "code": "HR",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Croatian": "Prezime + ime(na)"
+        }
+    },
+    {
+        "country": "Cuba",
+        "code": "CU",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Cyprus",
+        "code": "CY",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Greek": "Όνομα(τα) + επώνυμο"
+        }
+    },
+    {
+        "country": "Czech Republic",
+        "code": "CZ",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Czech": "Příjmení + jméno(m)"
+        }
+    },
+    {
+        "country": "Denmark",
+        "code": "DK",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Danish": "Efternavn + fornavn(e)"
+        }
+    },
+    {
+        "country": "Djibouti",
+        "code": "DJ",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Dominica",
+        "code": "DM",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)"
+        }
+    },
+    {
+        "country": "Dominican Republic",
+        "code": "DO",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "East Timor",
+        "code": "TL",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Portuguese": "Nome(s) + apelido paterno + apelido materno"
+        }
+    },
+    {
+        "country": "Ecuador",
+        "code": "EC",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Egypt",
+        "code": "EG",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم الأول + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "El Salvador",
+        "code": "SV",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Equatorial Guinea",
+        "code": "GQ",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Eritrea",
+        "code": "ER",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name",
+            "Tigrinya": "ስም(ታት) + የአባት ስም + የአያት ስም"
+        }
+    },
+    {
+        "country": "Estonia",
+        "code": "EE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Estonian": "Eesnimi(d) + perekonnanimi"
+        }
+    },
+    {
+        "country": "Eswatini",
+        "code": "SZ",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname"
+        }
+    },
+    {
+        "country": "Ethiopia",
+        "code": "ET",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name(optional)",
+            "Amharic": "ስም + የአባት ስም + (የአያት ስም)"
+        }
+    },
+    {
+        "country": "Fiji",
+        "code": "FJ",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname"
+        }
+    },
+    {
+        "country": "Finland",
+        "code": "FI",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Finnish": "Etunimi(t) + sukunimi"
+        }
+    },
+    {
+        "country": "France",
+        "code": "FR",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Gabon",
+        "code": "GA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Gambia",
+        "code": "GM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Georgia",
+        "code": "GE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Georgian": "სახელ(ები) + გვარი"
+        }
+    },
+    {
+        "country": "Germany",
+        "code": "DE",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "German": "Nachname + Vorname(n)"
+        }
+    },
+    {
+        "country": "Ghana",
+        "code": "GH",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)"
+        }
+    },
+    {
+        "country": "Greece",
+        "code": "GR",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Greek": "Επώνυμο + Όνομα(τα)"
+        }
+    },
+    {
+        "country": "Grenada",
+        "code": "GD",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)"
+        }
+    },
+    {
+        "country": "Guatemala",
+        "code": "GT",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Guinea",
+        "code": "GN",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Guinea-Bissau",
+        "code": "GW",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Portuguese": "Sobrenome + prenome(s)"
+        }
+    },
+    {
+        "country": "Guyana",
+        "code": "GY",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)"
+        }
+    },
+    {
+        "country": "Haiti",
+        "code": "HT",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Honduras",
+        "code": "HN",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Spanish": "Apellido + nombre(s)"
+        }
+    },
+    {
+        "country": "Hungary",
+        "code": "HU",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Hungarian": "Családnév + keresztnév(ek)"
+        }
+    },
+    {
+        "country": "Iceland",
+        "code": "IS",
+        "Naming Order": {
+            "English": "Given Name(s) + Patronymic or Matronymic",
+            "Icelandic": "Fornafn + föðurnafn/móðurnafn"
+        }
+    },
+    {
+        "country": "India",
+        "code": "IN",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Hindi": "पहला नाम + उपनाम"
+        }
+    },
+    {
+        "country": "Indonesia",
+        "code": "ID",
+        "Naming Order": {
+            "English": "First name + Last name",
+            "Indonesian": "Nama depan + nama belakang"
+        }
+    },
+    {
+        "country": "Iran",
+        "code": "IR",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Persian": "نام کوچک + نام خانوادگی"
+        }
+    },
+    {
+        "country": "Iraq",
+        "code": "IQ",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name(optional)",
+            "Arabic": "الاسم + اسم الأب + اسم الجد + اسم العائلة (اختياري)"
+        }
+    },
+    {
+        "country": "Ireland",
+        "code": "IE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Irish": "Ainm(acha) + sloinne"
+        }
+    },
+    {
+        "country": "Israel",
+        "code": "IL",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Hebrew": "שם פרטי + שם משפחה"
+        }
+    },
+    {
+        "country": "Italy",
+        "code": "IT",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Italian": "Cognome + nome(i)"
+        }
+    },
+    {
+        "country": "Ivory Coast",
+        "code": "CI",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Jamaica",
+        "code": "JM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Japan",
+        "code": "JP",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Japanese": "姓 + 名"
+        }
+    },
+    {
+        "country": "Jordan",
+        "code": "JO",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Kazakhstan",
+        "code": "KZ",
+        "Naming Order": {
+            "English": "Surname + Given Name + Patronymic(optional)",
+            "Kazakh": "Тегі + аты + әке аты (міндетті емес)"
+        }
+    },
+    {
+        "country": "Kenya",
+        "code": "KE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Kiribati",
+        "code": "KI",
+        "Naming Order": {
+            "English": "First name + Last name"
+        }
+    },
+    {
+        "country": "Democratic People's Republic of Korea",
+        "code": "KP",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "Korean": "성 + 이름"
+        }
+    },
+    {
+        "country": "Republic of Korea",
+        "code": "KR",
+        "Naming Order": {
+            "English": "Surname + Given Name + Middle Name(optional)",
+            "Korean": "성 + 이름 + 중간 이름 (선택 사항)"
+        }
+    },
+    {
+        "country": "Kuwait",
+        "code": "KW",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Kyrgyzstan",
+        "code": "KG",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name(optional) + Surname",
+            "Kyrgyz": "Ат + атанын ысымы + (маманын аты) + фамилия"
+        }
+    },
+    {
+        "country": "Laos",
+        "code": "LA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Laotian": "ຊື່ + ນາມສະກຸນ"
+        }
+    },
+    {
+        "country": "Latvia",
+        "code": "LV",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Latvian": "Vārds + uzvārds"
+        }
+    },
+    {
+        "country": "Lebanon",
+        "code": "LB",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Family Name",
+            "Arabic": "الاسم + اسم الأب + اسم العائلة"
+        }
+    },
+    {
+        "country": "Lesotho",
+        "code": "LS",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Liberia",
+        "code": "LR",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Libya",
+        "code": "LY",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Liechtenstein",
+        "code": "LI",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "German": "Vorname(n) + Nachname"
+        }
+    },
+    {
+        "country": "Lithuania",
+        "code": "LT",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Lithuanian": "Vardas + pavardė"
+        }
+    },
+    {
+        "country": "Luxembourg",
+        "code": "LU",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Madagascar",
+        "code": "MG",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Malawi",
+        "code": "MW",
+        "Naming Order": {
+            "English": "Surname + First Name + Given Name(s)"
+        }
+    },
+    {
+        "country": "Malaysia",
+        "code": "MY",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Malay": "Nama + nama keluarga"
+        }
+    },
+    {
+        "country": "Maldives",
+        "code": "MV",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Divehi": "ވިޔަކީ + ނަމްކުރިއްޔާ"
+        }
+    },
+    {
+        "country": "Mali",
+        "code": "ML",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + prénom(s)"
+        }
+    },
+    {
+        "country": "Malta",
+        "code": "MT",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Maltese": "Isem(i) + kunjom"
+        }
+    },
+    {
+        "country": "Marshall Islands",
+        "code": "MH",
+        "Naming Order": {
+            "English": "First name + Last name"
+        }
+    },
+    {
+        "country": "Mauritania",
+        "code": "MR",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Mauritius",
+        "code": "MU",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Mexico",
+        "code": "MX",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Federated States of Micronesia",
+        "code": "FM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Moldova",
+        "code": "MD",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Romanian": "Prenume + nume de familie"
+        }
+    },
+    {
+        "country": "Monaco",
+        "code": "MC",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Mongolia",
+        "code": "MN",
+        "Naming Order": {
+            "English": "Clan Name + Father’s Name + Given Name",
+            "Mongolian": "Овгийн нэр + эцгийн нэр + нэр"
+        }
+    },
+    {
+        "country": "Montenegro",
+        "code": "ME",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Serbian": "Име + презиме"
+        }
+    },
+    {
+        "country": "Morocco",
+        "code": "MA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Arabic": "الاسم + اسم العائلة"
+        }
+    },
+    {
+        "country": "Mozambique",
+        "code": "MZ",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Portuguese": "Nome(s) + apelido"
+        }
+    },
+    {
+        "country": "Myanmar",
+        "code": "MM",
+        "Naming Order": {
+            "English": "Father’s Name + Given Name",
+            "Burmese": "ဖခင်၏နာမည် + မိမိနာမည်"
+        }
+    },
+    {
+        "country": "Namibia",
+        "code": "NA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Nauru",
+        "code": "NR",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Nepal",
+        "code": "NP",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Nepali": "पहिलो नाम + थर"
+        }
+    },
+    {
+        "country": "Netherlands",
+        "code": "NL",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Dutch": "Voornaam/voornamen + achternaam"
+        }
+    },
+    {
+        "country": "New Zealand",
+        "code": "NZ",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Nicaragua",
+        "code": "NI",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + apellido paterno + apellido materno"
+        }
+    },
+    {
+        "country": "Niger",
+        "code": "NE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + nom de famille"
+        }
+    },
+    {
+        "country": "Nigeria",
+        "code": "NG",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "North Macedonia",
+        "code": "MK",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Macedonian": "Име (или имиња) + Презиме"
+        }
+    },
+    {
+        "country": "Norway",
+        "code": "NO",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Norwegian": "Fornavn (eller fornavn) + Etternavn"
+        }
+    },
+    {
+        "country": "Oman",
+        "code": "OM",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "اسم المعطى + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Pakistan",
+        "code": "PK",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name"
+        }
+    },
+    {
+        "country": "Palau",
+        "code": "PW",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name"
+        }
+    },
+    {
+        "country": "Panama",
+        "code": "PA",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + Apellido paterno + Apellido materno"
+        }
+    },
+    {
+        "country": "Papua New Guinea",
+        "code": "PG",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name"
+        }
+    },
+    {
+        "country": "Paraguay",
+        "code": "PY",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + Apellido paterno + Apellido materno"
+        }
+    },
+    {
+        "country": "Peru",
+        "code": "PE",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + Apellido paterno + Apellido materno"
+        }
+    },
+    {
+        "country": "Philippines",
+        "code": "PH",
+        "Naming Order": {
+            "English": "Given Name(s) + Middle Name + Surname"
+        }
+    },
+    {
+        "country": "Poland",
+        "code": "PL",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Polish": "Imię (lub imiona) + Nazwisko"
+        }
+    },
+    {
+        "country": "Portugal",
+        "code": "PT",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Portuguese": "Nome próprio (ou nomes) + Apelido"
+        }
+    },
+    {
+        "country": "Qatar",
+        "code": "QA",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "اسم المعطى + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Romania",
+        "code": "RO",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Romanian": "Prenume (sau prenume) + Nume de familie"
+        }
+    },
+    {
+        "country": "Russia",
+        "code": "RU",
+        "Naming Order": {
+            "English": "Surname + Given Name + Patronymic",
+            "Russian": "Фамилия + Имя + Отчество"
+        }
+    },
+    {
+        "country": "Rwanda",
+        "code": "RW",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Rwandan": "Izina (cyangwa amazina) + Izina ry’umuryango"
+        }
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "code": "KN",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Saint Lucia",
+        "code": "LC",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Samoa",
+        "code": "WS",
+        "Naming Order": {
+            "English": "Matai Title(s) + Given Name(s) + Surname",
+            "Samoan": "Titul Matai + Igoa (poʻo igoa) + Igoa aiga"
+        }
+    },
+    {
+        "country": "San Marino",
+        "code": "SM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Italian": "Nome (o nomi) + Cognome"
+        }
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "code": "ST",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Portuguese": "Nome próprio (ou nomes) + Apelido"
+        }
+    },
+    {
+        "country": "Saudi Arabia",
+        "code": "SA",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "اسم المعطى + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "Senegal",
+        "code": "SN",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + Nom de famille"
+        }
+    },
+    {
+        "country": "Serbia",
+        "code": "RS",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Serbian": "Ime (ili imena) + Prezime"
+        }
+    },
+    {
+        "country": "Seychelles",
+        "code": "SC",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "French": "Prénom(s) + Nom de famille"
+        }
+    },
+    {
+        "country": "Sierra Leone",
+        "code": "SL",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Singapore",
+        "code": "SG",
+        "Naming Order": {
+            "English": "Principal Name + Alias Name (optional) + Hanyu Pinyin Name"
+        }
+    },
+    {
+        "country": "Slovakia",
+        "code": "SK",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Slovak": "Meno (alebo mená) + Priezvisko"
+        }
+    },
+    {
+        "country": "Slovenia",
+        "code": "SI",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Slovenian": "Ime (ali imena) + Priimek"
+        }
+    },
+    {
+        "country": "Solomon Islands",
+        "code": "SB",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Somalia",
+        "code": "SO",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name (optional)",
+            "Somali": "Magaca La Bixiyay + Magaca Aabaha + Magaca Awoowaha (ikhtiyaari)"
+        }
+    },
+    {
+        "country": "South Africa",
+        "code": "ZA",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Afrikaans": "Voornaam + Van"
+        }
+    },
+    {
+        "country": "South Sudan",
+        "code": "SS",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name (optional)"
+        }
+    },
+    {
+        "country": "Spain",
+        "code": "ES",
+        "Naming Order": {
+            "English": "Given Name(s) + Paternal Surname + Maternal Surname",
+            "Spanish": "Nombre(s) + Apellido Paterno + Apellido Materno"
+        }
+    },
+    {
+        "country": "Sri Lanka",
+        "code": "LK",
+        "Naming Order": {
+            "English": "Surname + Given Name",
+            "Sinhalese": "ආචාර්ය නාමය + දීර්ඝ නාමය"
+        }
+    },
+    {
+        "country": "Sudan",
+        "code": "SD",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name (optional)",
+            "Arabic": "الاسم الأول + اسم الأب + اسم الجد (اختياري)"
+        }
+    },
+    {
+        "country": "Suriname",
+        "code": "SR",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Dutch": "Voornaam + Achternaam"
+        }
+    },
+    {
+        "country": "Sweden",
+        "code": "SE",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Swedish": "Förnamn + Efternamn"
+        }
+    },
+    {
+        "country": "Switzerland",
+        "code": "CH",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "German": "Vorname(n) + Nachname"
+        }
+    },
+    {
+        "country": "Syria",
+        "code": "SY",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name (optional)",
+            "Arabic": "الاسم الأول + اسم الأب + اسم الجد (اختياري)"
+        }
+    },
+    {
+        "country": "Tajikistan",
+        "code": "TJ",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Tajik": "Номи шахсӣ + Насаб"
+        }
+    },
+    {
+        "country": "Tanzania",
+        "code": "TZ",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Swahili": "Jina la Kwanza + Jina la Familia"
+        }
+    },
+    {
+        "country": "Thailand",
+        "code": "TH",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Thai": "ชื่อ + นามสกุล"
+        }
+    },
+    {
+        "country": "Togo",
+        "code": "TG",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)",
+            "French": "Nom de famille + Prénom(s)"
+        }
+    },
+    {
+        "country": "Tonga",
+        "code": "TO",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "code": "TT",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname"
+        }
+    },
+    {
+        "country": "Tunisia",
+        "code": "TN",
+        "Naming Order": {
+            "English": "Surname + Given Name(s) + Patronymic (optional)",
+            "Arabic": "اللقب + الاسم الأول + اسم الأب (اختياري)"
+        }
+    },
+    {
+        "country": "Turkey",
+        "code": "TR",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Turkish": "Ad(lar) + Soyad"
+        }
+    },
+    {
+        "country": "Turkmenistan",
+        "code": "TM",
+        "Naming Order": {
+            "English": "Given Name(s) + Surname",
+            "Turkmen": "Ad(lar) + Familiýa"
+        }
+    },
+    {
+        "country": "Tuvalu",
+        "code": "TV",
+        "Naming Order": {
+            "English": "First Name + Last Name"
+        }
+    },
+    {
+        "country": "Ukraine",
+        "code": "UA",
+        "Naming Order": {
+            "English": "Surname + Given Name(s) + Patronymic",
+            "Ukrainian": "Прізвище + Ім'я + По батькові"
+        }
+    },
+    {
+        "country": "United Arab Emirates",
+        "code": "AE",
+        "Naming Order": {
+            "English": "Given Name(s) + Father's Name + Grandfather's Name + Family Name",
+            "Arabic": "الاسم الأول + اسم الأب + اسم الجد + اسم العائلة"
+        }
+    },
+    {
+        "country": "United Kingdom",
+        "code": "GB",
+        "Naming Order": {
+            "English": "Surname + Given Name(s)"
+        }
+    },
+    {
+        "country": "United States",
+        "code": "US",
+        "Naming Order": {
+            "English": "First Name + Middle Name (optional) + Last Name"
+        }
+    },
+    {
+        "country": "Uruguay",
+        "code": "UY",
+        "Naming Order": {
+            "English": "Paternal Surname + Maternal Surname + Given Name(s)",
+            "Spanish": "Apellido Paterno + Apellido Materno + Nombre(s)"
+        }
+    },
+    {
+        "country": "Uzbekistan",
+        "code": "UZ",
+        "Naming Order": {
+            "English": "Surname + Given Name + Patronymic",
+            "Uzbek": "Familiya + Ism + Otasining ismi"
+        }
+    },
+    {
+        "country": "Vanuatu",
+        "code": "VU",
+        "Naming Order": {
+            "English": "Surname + Given Name (optional) + Melanesian (optional)",
+            "Bislama": "Nae blong famle + Nema blong man (optional) + Melanesian (optional)"
+        }
+    },
+    {
+        "country": "Venezuela",
+        "code": "VE",
+        "Naming Order": {
+            "English": "Paternal Surname + Maternal Surname + Given Name(s)",
+            "Spanish": "Apellido Paterno + Apellido Materno + Nombre(s)"
+        }
+    },
+    {
+        "country": "Vietnam",
+        "code": "VN",
+        "Naming Order": {
+            "English": "Surname + Middle Name (optional) + Given Name",
+            "Vietnamese": "Họ + Tên đệm (tùy chọn) + Tên"
+        }
+    },
+    {
+        "country": "Yemen",
+        "code": "YE",
+        "Naming Order": {
+            "English": "Surname + First Name + Father's Name (optional) + Grandfather's Name",
+            "Arabic": "اللقب + الاسم الأول + اسم الأب (اختياري) + اسم الجد"
+        }
+    },
+    {
+        "country": "Zambia",
+        "code": "ZM",
+        "Naming Order": {
+            "English": "Surname + Other Name(s)"
+        }
+    },
+    {
+        "country": "Zimbabwe",
+        "code": "ZW",
+        "Naming Order": {
+            "English": "Surname + Other Name(s)"
+        }
+    },
+    {
+        "country": "Vatican City",
+        "code": "VA",
+        "Naming Order": {
+            "English": "Papal Name + Birth Name(s)",
+            "Italian": "Nome papale + nome di nascita"
+        }
+    },
+    {
+        "country": "State of Palestine",
+        "code": "PS",
+        "Naming Order": {
+            "English": "Family Name + Given Name(s) + Father's Name (optional) + Grandfather's Name (optional)",
+            "Arabic": "اسم العائلة + الاسم الأول + اسم الأب (اختياري) + اسم الجد (اختياري)"
+        }
+    }
+]

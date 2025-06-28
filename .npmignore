@@ -1,0 +1,6 @@
+node_modules
+src
+.prettierignore
+
+tsconfig.json
+tsup.config.ts
