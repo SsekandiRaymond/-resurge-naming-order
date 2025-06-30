@@ -1,11 +1,12 @@
 {
     "name": "@reignite/no-core",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "Core Utility library for country level right Naming Order",
     "keywords": [
         "names",
         "right name order",
-        "core library"
+        "core library",
+        "@reignite"
     ],
     "homepage": "https://github.com/SsekandiRaymond/-resurge-naming-order#readme",
     "bugs": {
